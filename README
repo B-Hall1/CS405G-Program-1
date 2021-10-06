@@ -1,1 +1,3 @@
 I found the code I used to generalize the loop I used on line number 48 from geeksforgeeks.org/multimap-find-in-cpp-stl
+compile with g++ -o programname prog0.cpp
+run with ./programname
